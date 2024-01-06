@@ -2,16 +2,39 @@
 layout: homepage
 ---
 
-<h1 id="about-me"></h1>
+<h1 id="about-me">About Me</h1>
+
+<p>
+    I am <strong>Binesh Kumar</strong>, a dynamic and experienced professional with over 15 years in the field of data science and healthcare technology. Currently, I hold the position of <strong>Senior Principal Research and Development Engineer & Technical Fellow</strong> at <a href="https://www.medtronic.com">Medtronic</a>. My expertise lies in enhancing healthcare solutions through innovative technologies, particularly in the realms of minimally invasive therapies and precision oncology.
+</p>
+
+<p>
+    Academically, I am a Ph.D. Candidate at the <strong>Secure and Assured Intelligent Learning Lab (SAIL Lab)</strong>, University of New Haven, focusing on dynamic treatment planning systems for precision oncology using Reinforcement Learning Techniques. My goal is to create equitable healthcare solutions across the globe.
+</p>
+
+<p>
+    <strong style="color:#e74d3c; font-weight:600">Passionate about bridging the gap between data and actionable insights in healthcare, I am always eager to engage in collaborations and discussions that drive innovation in medical care.</strong>
+</p>
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a postdoctoral fellow in the Department of Computer Science at [Johns Hopkins University](https://cs.jhu.edu). I am fortunate to work with [Prof. Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/). I received my Ph.D. in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), where I was fortunate to be advised by [Prof. Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/) and [Prof. Qianru Sun](https://qianrusun.com/). As part of the [European Laboratory for Learning and Intelligent Systems (ELLIS) Ph.D. Program](https://ellis.eu/phd-postdoc), I was also co-supervised by [Prof. Christian Rupprecht](https://www.cs.ox.ac.uk/people/christian.rupprecht/) and [Prof. Andrea Vedaldi](https://www.robots.ox.ac.uk/~vedaldi/) in the [Visual Geometry Group (VGG)](https://www.robots.ox.ac.uk/~vgg/) at the [University of Oxford](https://www.ox.ac.uk/). From 2018 to 2019, I was a research intern at the [National University of Singapore](https://www.comp.nus.edu.sg/), working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Prof. Qianru Sun](https://qianrusun.com/). Prior to this, I obtained my bachelor’s degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm). 
+<p>
+    My extensive industry experience includes leading roles in advanced product development optimization, specializing in surgical instruments and complex medical systems at Medtronic. I have spearheaded the integration of Product Lifecycle Management (PLM) systems and engineering data management practices, ensuring data integrity and industry compliance.
+</p>
 
-My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical imaging**.
+<p>
+    I am proficient in various machine learning techniques, including regression clustering, classification, logistic regression, decision trees, and ensemble models. My technical skill set encompasses programming languages like Java, Python, and R, as well as cloud and big data frameworks such as AWS and Snowflake. Additionally, I have a strong grasp of analytics and visualization tools, including PowerBI and Dash/Plotly.
+</p>
 
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2023-2024 academic job market, looking for faculty positions in CS, CSE, ECE, IEOR, etc., related to Artificial Intelligence, Computer Vision, and Machine Learning. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong>
+<p>
+    Throughout my career, I have received numerous honors and awards, such as the Support Engineer of the Month and the Best Sales Support award. My publications include works on Windchill ERP Integration and Windchill Performance Tuning.
+</p>
 
+<p>
+    Connect with me at <a href="mailto:mail@bineshkumar.me">mail@bineshkumar.me</a>, view my professional journey on <a href="https://www.linkedin.com/in/bineshk">LinkedIn</a>, or visit my personal website at <a href="https://bineshkumar.me">bineshkumar.me</a>.
+</p>
+
+<!-- Include sections for news, publications, teaching, etc. if applicable -->
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
